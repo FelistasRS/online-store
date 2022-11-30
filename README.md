@@ -2,7 +2,7 @@
 //Watch online-store
 
 */php main lang
-html and css lay major role
+html and css play major role
 databases and mysql store data of products
 then connect to browser and output 
 use of php and css in creating sticky shopping cart 
